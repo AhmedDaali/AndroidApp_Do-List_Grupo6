@@ -7,6 +7,7 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
+import android.widget.Toast;
 
 public class Login extends AppCompatActivity {
     Button botonLogin;
@@ -31,7 +32,8 @@ public class Login extends AppCompatActivity {
         botonRegistro.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                //Crear el usuario en la base de datos
+                //Crear el usuario en Firebase
+                Toast.makeText(Login.this, "Usuario registrado", Toast.LENGTH_LONG).show();
                 Intent intent = new Intent(Login.this, MainActivity.class);
                 startActivity(intent);
             }
