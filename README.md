@@ -1,4 +1,5 @@
-# EspartanoV-AE_1_ToDo-List_Grupo6
+# 
+AndroidApp_Do-List_Grupo6
 
 Este es una tarea realizada para el ciclo formativo grado superior de Desarrollo de Aplicaciones Multiplataforma.
 
