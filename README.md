@@ -1,6 +1,10 @@
 # 
 AndroidApp_Do-List_Grupo6
 
+-English: It is an Android application that manages the tasks of a user with a Login service and is connected to the Firebase database.
+
+Es una aplicación Android que gestiona las tareas de un usuario tiene servicio de Login y está conectada a la base de datos de Firebase.
+
 Este es una tarea realizada para el ciclo formativo grado superior de Desarrollo de Aplicaciones Multiplataforma.
 
 Enunciado:
